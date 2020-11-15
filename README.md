@@ -1,5 +1,5 @@
 # Pytrends-Flask-and-Chart.js
-write the item you want to search for in the list.csv file<br/>
+write the item name you want to search for in the list.csv file<br/>
 install Flask:
 ```
 pip install Flask
